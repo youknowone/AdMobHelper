@@ -6,7 +6,7 @@
 //
 //
 
-#import "GADBannerView.h"
+#import <GoogleMobileAds/GoogleMobileAds.h>
 
 #ifdef __cplusplus
 extern "C" {
